@@ -22,3 +22,6 @@ include:
     shield: sofle_left
   - board: nice_nano//zmk
     shield: sofle_right
+  - board: nice_nano//zmk
+    shield: settings_reset
+    artifact-name: settings_reset
